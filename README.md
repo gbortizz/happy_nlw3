@@ -3,14 +3,14 @@ Uma plataforma para localizar os orfanatos mais próximos de você.
 Projeto desenvolvido durante a Next Level Week # 03 da 🚀 Rocketseat.
 
 <h1>Tecnologias ✨</h1>
-* [React](#React)
-* [Typescript](#Typescript)
-* [React Router Dom](#React-router-dom)
-* [Express](#Express)
-* [Leaflet](#Leaflet)
-* [Mapbox](#Mapbox)
-* [Node.js](#Node)
-* [SQLite](#SQLite)
+* [React]
+* [Typescript]
+* [React Router Dom]
+* [Express]
+* [Leaflet]
+* [Mapbox]
+* [Node.js]
+* [SQLite]
 
 <h1>Mobile 📱</h1>
 * [React Native](#React-native)
